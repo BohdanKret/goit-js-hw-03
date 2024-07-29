@@ -1,3 +1,4 @@
+'use strict'
 function slugify(title) {
   title = title.toLowerCase();
   title = title.split(" ");
